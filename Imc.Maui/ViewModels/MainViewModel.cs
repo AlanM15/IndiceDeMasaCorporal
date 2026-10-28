@@ -1,7 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using Imc.Maui.Models;
-
+using Imc.Console.Models;
 namespace Imc.Maui.ViewModels
 {
     public partial class MainViewModel : ObservableObject
